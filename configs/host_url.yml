@@ -1,0 +1,4 @@
+basichost: http://www.mtxshop.com:7000
+buyerhost: http://www.mtxshop.com:7002
+sellerhost: http://www.mtxshop.com:7003
+managerhost: http://www.mtxshop.com:7004

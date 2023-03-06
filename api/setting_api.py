@@ -1,0 +1,9 @@
+import os
+
+ABS_PATH = os.path.abspath(__file__) #获取当前文件的绝对路径
+DIR_NAME = os.path.dirname(ABS_PATH) #获取文件所在的目录
+
+if __name__ == '__main__':
+    print(ABS_PATH)
+    print(DIR_NAME)
+    print(DIR_NAME)
